@@ -1,7 +1,7 @@
 <h1 align='center'> Hi there 👋, I'm Berkay Özdemir</h1>
 
 <p align='center'>
-I am improving my skills on projects related to web applications.
+I am improving my skills on projects related to SAP.
 </p>
 
 <p align='center'>
